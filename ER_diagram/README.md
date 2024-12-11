@@ -1,7 +1,9 @@
 ## Entity-Relationship Diagram (ERD) Solution
 
 ### **ER Diagram**
+![Website preview for the link tree](./ER_Diagram_bw.png)
 
+---
 
 ### **Entities and Attributes**
 
